@@ -1,0 +1,6 @@
+**/libmy.a
+**/*.o
+**/a.out
+**/*~
+**/coding-style-reports.log
+**/.vscode

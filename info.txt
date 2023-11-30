@@ -1,0 +1,5 @@
+This is a reprogramming of the game Duck Hunt. 
+The goal is to shoot down as many birds as you can. 
+The controls are to move the mouse over one of the birds, and then click to shoot it. 
+If you want to close the game, you simply press the esc button. 
+Have fun!
